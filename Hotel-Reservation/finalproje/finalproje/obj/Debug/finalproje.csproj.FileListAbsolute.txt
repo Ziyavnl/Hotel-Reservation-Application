@@ -1,0 +1,11 @@
+C:\Users\pC\source\repos\finalproje\finalproje\bin\Debug\finalproje.exe.config
+C:\Users\pC\source\repos\finalproje\finalproje\bin\Debug\finalproje.exe
+C:\Users\pC\source\repos\finalproje\finalproje\bin\Debug\finalproje.pdb
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.csproj.AssemblyReference.cache
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.Form1.resources
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.Properties.Resources.resources
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.csproj.GenerateResource.cache
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.csproj.CoreCompileInputs.cache
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.exe
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.pdb
+C:\Users\pC\source\repos\finalproje\finalproje\obj\Debug\finalproje.Form2.resources
