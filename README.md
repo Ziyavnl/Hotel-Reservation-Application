@@ -17,3 +17,40 @@
 2. VIEW > Displays the data saved on SQL on the datagridview screen
 3. Clean > Clears the filled boxes
 4. DELETE > Deletes the desired data from the data in SQL Server information
+
+
+* SQL sections.
+
+  ![photo1](https://github.com/Ziyavnl/Hotel-Reservation-Application/blob/main/photo/Screenshot_5.png)
+
+_______________________________________________________________________________________________________
+
+* İnterface part user login.
+
+  ![photo3](https://github.com/Ziyavnl/Hotel-Reservation-Application/blob/main/photo/Screenshot_2.png)
+
+________________________________________________________________________________________________________
+
+* Code sections.
+
+  ![photo2](https://github.com/Ziyavnl/Hotel-Reservation-Application/blob/main/photo/Screenshot_3.png)
+
+________________________________________________________________________________________________________
+
+* İnterface part.
+
+  ![photo4](https://github.com/Ziyavnl/Hotel-Reservation-Application/blob/main/photo/Screenshot_1.png)
+
+________________________________________________________________________________________________________
+
+* Code sections.
+
+  ![photo5](https://github.com/Ziyavnl/Hotel-Reservation-Application/blob/main/photo/Screenshot_4.png)
+
+________________________________________________________________________________________________________
+
+
+https://github.com/user-attachments/assets/639cc17a-9f81-45d8-ad69-91e1a7c45b86
+
+
+
